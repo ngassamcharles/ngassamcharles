@@ -8,10 +8,12 @@ A **Software developer Engineer in Test (SDET)** interested in WEB UI, APIs, Mob
 
 * Frontend: `Selenium WebDriver` - `Cypress` - `RobotFramework` - `Playwright`
 
-* Mobile: `Appium`
+* Mobile: `Appium` - `XCUITest`
 
 * CI/CD: `Jenkins` - `GitLab CI`
 
 * Reporting: `Allure` - `ExtendReports`
 
 * Languages: `Java` - `Javascript/Typescript` - `Python`
+
+* Cloud: `Docker` - `BrowserStack` - `Amazon Web Services`
