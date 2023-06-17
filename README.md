@@ -4,7 +4,7 @@ A **Software developer Engineer in Test (SDET)** interested in WEB UI, APIs, Mob
 
 
 ### My stack
-* Backend:  `REST Assured` - `Cypress` - `Postman` - `ReadyAPI`
+* Backend:  `REST Assured` - `Cypress` - `Postman` - `ReadyAPI` - `GraphQL`
 
 * Frontend: `Selenium WebDriver` - `Cypress` - `RobotFramework` - `Playwright`
 
