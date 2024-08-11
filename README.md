@@ -4,7 +4,7 @@ A **Software developer Engineer in Test (SDET)** interested in WEB UI, APIs, Mob
 
 
 ### My stack
-* Backend:  `REST Assured` - `Cypress` - `Postman` - `ReadyAPI` - `GraphQL`
+* Backend:  `REST Assured` - `Cypress` - `Postman` - `ReadyAPI` - `CodeceptJS`- `gRPC`
 
 * Frontend: `Selenium WebDriver` - `Cypress` - `RobotFramework` - `Playwright`
 
@@ -16,4 +16,4 @@ A **Software developer Engineer in Test (SDET)** interested in WEB UI, APIs, Mob
 
 * Languages: `Java` - `Javascript/Typescript` - `Python`
 
-* Cloud: `Docker` - `BrowserStack` - `Amazon Web Services`
+* Cloud: `Docker` - `BrowserStack` - `SnowFlake`
