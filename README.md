@@ -4,13 +4,13 @@ A **Software developer Engineer in Test (SDET)** interested in WEB UI, APIs, Mob
 
 
 ### My stack
-* Backend:  `REST Assured` - `Cypress` - `Postman` - `ReadyAPI` - `CodeceptJS`- `gRPC`
+* Backend:  `RESTAssured` - `Karate` - `Postman` - `CodeceptJS`- `gRPC`
 
 * Frontend: `Selenium WebDriver` - `Cypress` - `RobotFramework` - `Playwright`
 
-* Mobile: `Appium` - `XCUITest`
+* Mobile: `Appium`
 
-* CI/CD: `Jenkins` - `GitLab CI`
+* CI/CD: `Jenkins` - `GitLab CI` - `Azure`
 
 * Reporting: `Allure` - `ExtendReports`
 
