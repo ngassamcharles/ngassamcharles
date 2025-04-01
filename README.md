@@ -6,7 +6,7 @@ A **Software developer Engineer in Test (SDET)** interested in WEB UI, APIs, Mob
 ### My stack
 * Backend:  `RESTAssured` - `Karate` - `Postman` - `CodeceptJS`- `gRPC`
 
-* Frontend: `Selenium WebDriver` - `Cypress` - `RobotFramework` - `Playwright`
+* Frontend: `Selenium WebDriver` - `RobotFramework` - `Playwright`
 
 * Mobile: `Appium`
 
